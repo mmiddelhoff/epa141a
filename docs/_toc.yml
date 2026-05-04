@@ -30,5 +30,9 @@ chapters:
       - file: assignments/assignment_07
       - file: assignments/assignment_08
   - file: debate/index
+    sections:
+      - file: debate/actors
+      - file: debate/stages
+      - file: debate/mandate-guide
   - file: project/index
   - file: resources
