@@ -44,7 +44,7 @@ module load miniconda3
 
 unset CONDA_SHLVL
 source "$(conda info --base)/etc/profile.d/conda.sh"
-conda activate epa141a
+conda activate /scratch/$USER/envs/epa141a
 
 # ── Run ───────────────────────────────────────────────────────────────────────
 echo "========================================================"
@@ -58,7 +58,7 @@ echo "========================================================"
 
 mkdir -p results/logs
 
-python model_answers_ema/run_optimization_local.py \
+python assignments_ema/run_optimization_local.py \
     --seeds $SEED \
     --nfe $NFE \
     --n_ensembles $N_ENSEMBLES \

@@ -7,11 +7,11 @@
     "n_rbfs": 4,
     "n_inputs": 2,
     "epsilons": [
-        0.1,
-        0.25,
+        100.0,
+        0.01,
         10.0,
         10.0
     ],
     "temperature_year_of_interest": 2100,
-    "reference_ssp_rcp_scenario_index": 2
+    "reference_ssp_rcp_scenario_index": 5
 }
