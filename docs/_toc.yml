@@ -11,6 +11,7 @@ chapters:
       - file: installation/graphical
       - file: installation/cli
       - file: installation/vscode
+      - file: installation/delftblue
   - file: labs/index
     sections:
       - file: labs/lab_01
@@ -34,5 +35,6 @@ chapters:
       - file: debate/actors
       - file: debate/stages
       - file: debate/mandate-guide
+      - file: debate/glossary
   - file: project/index
   - file: resources

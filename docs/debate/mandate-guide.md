@@ -43,25 +43,35 @@ JUSTICE has no one to one mapping to your mandate.  You must construct proxies. 
 
 | Code | Region | Code | Region |
 |---|---|---|---|
-| `usa` | United States | `rsaf` | Sub-Saharan Africa |
-| `chn` | China | `rsas` | Rest of South Asia |
-| `nde` | India | `rcam` | Rest of Central America & Caribbean |
-| `rus` | Russia | `rjan57` | Pacific Islands |
-| `bra` | Brazil | `golf57` | Gulf Countries |
-| `zaf` | South Africa | `meme` | Middle East |
-| `aus` | Australia | `osea` | Rest of Southeast Asia |
-| `can` | Canada | `rsam` | Rest of South America |
-| `tur` | Turkey | `idn` | Indonesia |
-| `gbr` | United Kingdom | `mys` | Malaysia |
-| `fra` | France | `tha` | Thailand |
-| `rfa` | Germany | `vnm` | Vietnam |
-| `nor` | Norway | `jpn` | Japan |
-| `dnk` | Denmark | `cor` | South Korea |
-| `swe` | Sweden | `mex` | Mexico |
-| `fin` | Finland | `pol` | Poland |
-| `egy` | Egypt | `sui` | Switzerland |
-| `noan` | W. Sahara, Tunisia & Morocco | `arg` | Argentina |
-| `noap` | Libya & Algeria | `chl` | Chile |
+| `arg` | Argentina | `aus` | Australia |
+| `aut` | Austria | `bel` | Belgium |
+| `bgr` | Bulgaria | `blt` | Baltic States |
+| `bra` | Brazil | `can` | Canada |
+| `chl` | Chile | `chn` | China |
+| `cor` | South Korea | `cro` | Croatia |
+| `dnk` | Denmark | `egy` | Egypt |
+| `esp` | Spain | `fin` | Finland |
+| `fra` | France | `gbr` | United Kingdom |
+| `golf57` | Gulf Countries | `grc` | Greece |
+| `hun` | Hungary | `idn` | Indonesia |
+| `irl` | Ireland | `ita` | Italy |
+| `jpn` | Japan | `meme` | Middle East |
+| `mex` | Mexico | `mys` | Malaysia |
+| `nde` | India | `nld` | Netherlands |
+| `noan` | W. Sahara, Tunisia & Morocco | `noap` | Libya & Algeria |
+| `nor` | Norway | `oeu` | Other European Countries (incl. Iceland) |
+| `osea` | Rest of Southeast Asia | `pol` | Poland |
+| `prt` | Portugal | `rcam` | Rest of Central America & Caribbean |
+| `rcz` | Czechia | `rfa` | Germany |
+| `ris` | Former Soviet Union | `rjan57` | Pacific Islands |
+| `rom` | Romania | `rsaf` | Sub-Saharan Africa |
+| `rsam` | Rest of South America | `rsas` | Rest of South Asia |
+| `rsl` | Slovakia | `rus` | Russia |
+| `slo` | Slovenia | `sui` | Switzerland |
+| `swe` | Sweden | `tha` | Thailand |
+| `tur` | Turkey | `ukr` | Ukraine |
+| `usa` | United States | `vnm` | Vietnam |
+| `zaf` | South Africa | | |
 
 ### 1.4 Welfare functions — what each one asks
 

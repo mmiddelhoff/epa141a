@@ -159,6 +159,16 @@ Run notebooks directly in VS Code — no browser needed.
 [→ VS Code Setup](vscode.md)
 :::
 
+:::{grid-item-card} 🖥️ DelftBlue (HPC)
+:link: delftblue
+:link-type: doc
+
+**For Assignment 5.**
+Run large optimisations on TU Delft's cluster.
++++
+[→ DelftBlue Guide](delftblue.md)
+:::
+
 ::::
 
 ## What gets installed
