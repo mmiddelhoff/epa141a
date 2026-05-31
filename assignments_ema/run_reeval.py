@@ -32,6 +32,8 @@ import argparse
 import json
 import os
 import sys
+import warnings
+warnings.filterwarnings("ignore")
 
 import numpy as np
 import pandas as pd
@@ -58,7 +60,7 @@ from justice.objectives.objective_functions import years_above_temperature_thres
 from solvers.emodps.rbf import RBF
 
 # ── Config ────────────────────────────────────────────────────────────────────
-with open(os.path.join(_CONFIG_DIR, "config_ssp245.json")) as _fh:
+with open(os.path.join(_CONFIG_DIR, "config_student.json")) as _fh:
     _cfg = json.load(_fh)
 
 _time_horizon = TimeHorizon(
@@ -178,7 +180,7 @@ if __name__ == "__main__":
     SCENARIO_INDICES = list(np.linspace(1, 1000, N_SCENARIOS, dtype=int))
 
     # ── Load reference set ─────────────────────────────────────────────────────
-    ref_path = os.path.join(RESULTS_ROOT, "reference_set_utilitarian.csv")
+    ref_path = os.path.join(RESULTS_ROOT, "reference_set_UTILITARIAN.csv")
     if not os.path.exists(ref_path):
         ref_path = os.path.join(RESULTS_ROOT, "UTILITARIAN_reference_set.csv")
         print(f"Grand reference set not found — falling back to {ref_path}")
