@@ -108,7 +108,7 @@ Proposed table of content (you may deviate):
 
 Part 2 of the report should be a minimum of 2000 words and a maximum of 5000 words.
 
-**Table 5** Rubric for the reflection on the use of (model-based) knowledge in the negotiations
+**Rubric for the reflection on the use of (model-based) knowledge in the negotiations**
 
 :::{list-table}
 :header-rows: 1
